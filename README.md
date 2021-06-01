@@ -3,3 +3,4 @@ El repositorio contiene información del proyecto, en relación a los codigos us
 
 # Integrantes
 - Rodriguez Guillet Matias
+- Pablo Rvero 
