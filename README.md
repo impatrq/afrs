@@ -3,4 +3,4 @@ El repositorio contiene información del proyecto, en relación a los codigos us
 
 # Integrantes
 
-Pablo Rvero 
+- Pablo Rvero 
