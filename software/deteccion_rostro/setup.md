@@ -1,3 +1,7 @@
+Para poder instalar opencv hay que poner el siguiente comando:
+```
+pip install opencv-python==3.4.10.37
+```
 Se agrega el archivo haarcascade_mouth.xml a la carpeta del OpenCV:
 
 ```
