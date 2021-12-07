@@ -7,13 +7,13 @@
 </div>
 
 ### ¿En qué consiste?
-Nuestro proyecto consiste en un kit completamente adaptable a un vehiculo, el cual es capaz de detectar la alcoholemia y la somnolencia del conductor con el fin de reducir los accidentes de transito por estas causas.
+Nuestro proyecto consiste en un kit completamente adaptable a un vehículo, el cual es capaz de detectar la alcoholemia y la somnolencia del conductor con el fin de reducir los accidentes de tránsito por estas causas.
 
 ### ¿Cuál es nuestro objetivo?
-Al ver los altos numeros de accidentes de trafico que hay en argentina como en muchas partes del mundo, nuestra propuesta es tener un sistema más que podemos encontrar en el vehiculo. De esta forma, hariamos este medio de transporte más seguro para quienes lo usan regularmente como tambien a los peatones de la via pública.
+Al ver los altos números de accidentes de tráfico que hay en argentina como en muchas partes del mundo, nuestra propuesta es tener un sistema más que podemos encontrar en el vehículo. De esta forma, haríamos este medio de transporte más seguro para quienes lo usan regularmente como tambien a los peatones de la via pública.
 
 ### ¿Quienes somos?
-Somos un grupo de chicos que se encuentran cursando en 7mo 2da Aviónica, pertenecientes a la escuela secundaria IMPA, nos vimos con la necesidad de desarrollar un prototipo para solucionar los problemas ya mencionados.
+Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pertenecientes a la Escuela Secundaria IMPA, nos vimos con la necesidad de desarrollar un prototipo para solucionar los problemas ya mencionados.
 
 ### Integrantes del Grupo:
 - Aristimuño Thomas
