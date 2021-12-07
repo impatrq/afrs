@@ -1,10 +1,10 @@
+# Proyecto AFRS:
+
 <div align="center">
   
   ![AFRS_Logo_3](https://user-images.githubusercontent.com/82232036/144950306-3930c7e7-9327-4ec7-b23b-bdb8905ed345.jpg)
 
 </div>
-
-# Proyecto AFRS:
 
 ### ¿En qué consiste?
 Nuestro proyecto consiste en un kit completamente adaptable a un vehiculo, el cual es capaz de detectar la alcoholemia y la somnolencia del conductor con el fin de reducir los accidentes de transito por estas causas.
