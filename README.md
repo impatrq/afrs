@@ -1,4 +1,4 @@
-<https://imgur.com/x0JID3G>
+[Imgur](https://imgur.com/x0JID3G)
 
 # Proyecto AFRS:
 
