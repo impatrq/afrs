@@ -26,5 +26,18 @@ Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvid
 
 - G-Mail: afrs001@gmail.com
 - Perfil de Instagram: https://www.instagram.com/proyecto_afrs/
+
+<div align="center">
+  
+  ![QR_Ig](https://user-images.githubusercontent.com/82232036/145039504-22fa817a-3981-40b5-9b6c-8d4a9e5277f1.png)
+
+</div>
+
 - Canal de YouTube: https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ
 
+<div align="center">
+  
+  ![Img_YT](https://user-images.githubusercontent.com/82232036/145040527-5da9b4be-42c8-4488-a748-1508bd05fe2d.png)
+  Para ver nuestro video de presentación, use este Link: https://www.youtube.com/watch?v=Oi8ZoH2A2nQ
+  
+</div>
