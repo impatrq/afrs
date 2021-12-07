@@ -1,5 +1,4 @@
-<img src="C:/Users/Mati R G/Documents/7mo Año/Proyecto de Fin de Año/Logo/AFRS_Logo_3.jpg">
-
+![text] (https://imgur.com/gallery/VvDP5yP.jpg)
 # Proyecto AFRS:
 
 ## ¿En qué consiste?
@@ -17,12 +16,12 @@ Somos un grupo de chicos que se encuentran cursando en 7mo 2da Aviónica, perten
 - Rivero Pablo Martín
 - Rodriguez Guillet Matías
 
-## Nuestros Contactos:
+## Contactos:
 Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvides de seguirnos en nuestras redes!
 
-### G-Mail:
-afrs001@gmail.com
-### 
-###
-###
-###
+- G-Mail: afrs001@gmail.com
+- Perfil de Instagram: https://www.instagram.com/proyecto_afrs/
+- Canal de YouTube: https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ  
+
+https://www.youtube.com/watch?v=Oi8ZoH2A2nQ&t=8s
+
