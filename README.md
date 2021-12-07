@@ -26,7 +26,5 @@ Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvid
 
 - G-Mail: afrs001@gmail.com
 - Perfil de Instagram: https://www.instagram.com/proyecto_afrs/
-- Canal de YouTube: https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ  
-
-https://www.youtube.com/watch?v=Oi8ZoH2A2nQ&t=8s
+- Canal de YouTube: https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ
 
