@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![AFRS_Logo_3](https://user-images.githubusercontent.com/82232036/144950306-3930c7e7-9327-4ec7-b23b-bdb8905ed345.jpg)
+  ![Prototipouwu](https://user-images.githubusercontent.com/82232036/145044789-590749d7-1969-401f-a2e0-82e9fc9c0058.gif)
 
 </div>
 
