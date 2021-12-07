@@ -1,4 +1,4 @@
-![text] (https://imgur.com/gallery/VvDP5yP.jpg)
+![text] (https://imgur.com/a/KyLOe42)
 # Proyecto AFRS:
 
 ## ¿En qué consiste?
