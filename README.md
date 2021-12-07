@@ -1,4 +1,5 @@
-![text] (https://imgur.com/a/KyLOe42)
+<img src= "C:/Users/Mati R G/Documents/7mo Año/Proyecto de Fin de Año/Logo/AFRS_Logo_3">
+
 # Proyecto AFRS:
 
 ## ¿En qué consiste?
