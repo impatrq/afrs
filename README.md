@@ -1,4 +1,4 @@
-![AFRS_Logo_3](https://user-images.githubusercontent.com/82232036/144950104-07e51c2f-d100-48ec-b4d8-bb48fa0286b7.jpg)
+![AFRS_Logo_3](https://user-images.githubusercontent.com/82232036/144950306-3930c7e7-9327-4ec7-b23b-bdb8905ed345.jpg)
 
 # Proyecto AFRS:
 
