@@ -15,6 +15,12 @@ Al ver los altos números de accidentes de tráfico que hay en argentina como en
 ### ¿Quienes somos?
 Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pertenecientes a la Escuela Secundaria IMPA, nos vimos con la necesidad de desarrollar un prototipo para solucionar los problemas ya mencionados.
 
+<div align="center">
+
+  ![Foto_Grupal](https://user-images.githubusercontent.com/82232036/145055848-4173a84d-69be-4205-b9f0-5061c42c068c.jpg)
+  
+</div>
+
 ### Integrantes del Grupo:
 - Aristimuño Thomas
 - Canteros Gonzalo Yoel
