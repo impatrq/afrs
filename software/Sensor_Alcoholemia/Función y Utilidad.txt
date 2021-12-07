@@ -1,0 +1,16 @@
+La funcion principal del sensor es que detecte cuando la persona ingresa
+al vehiculo, determine si esta alcoholizada o no.
+
+Su metodo de aplicacion con el sistema seria que el mismo funcione como
+boquilla y que habilite al equipo si el conductor está apto para manejar.
+
+
+
+
+Principales contras/puntos a tener en cuenta:
+
++El sensor es muy sensible al alcohol, entonces si la personacuando se
+sube al auto, se lava las manos con este elemento, puede detectar una
+alteración y dar una mala acción.
+
++La boquilla que se creará tiene que tener 
