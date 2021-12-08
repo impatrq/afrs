@@ -1,0 +1,1 @@
+La camara web sera utilizada para poder tener una mayor eficiencia y precision en nuestro sistema de somnolencia.
