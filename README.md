@@ -30,9 +30,9 @@ Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pert
 ### Contactos:
 Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvides de seguirnos en nuestras redes!
 
-- G-Mail: afrs001@gmail.com
-- Página Web: https://freezing-boiling-oriole.glitch.me/
-- Perfil de Instagram: https://www.instagram.com/proyecto_afrs/
+- **G-Mail:** afrs001@gmail.com
+- **Página Web:** https://freezing-boiling-oriole.glitch.me/
+- **Perfil de Instagram:** https://www.instagram.com/proyecto_afrs/
 
 <div align="center">
   
@@ -40,11 +40,11 @@ Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvid
 
 </div>
 
-- Canal de YouTube: https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ
+- **Canal de YouTube:** https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ
 
 <div align="center">
   
   ![Img_YT](https://user-images.githubusercontent.com/82232036/145040527-5da9b4be-42c8-4488-a748-1508bd05fe2d.png)
-  Para ver nuestro video de presentación, use este Link: https://www.youtube.com/watch?v=Oi8ZoH2A2nQ
+  *Para ver nuestro video de presentación, use este Link: https://www.youtube.com/watch?v=Oi8ZoH2A2nQ*
   
 </div>
