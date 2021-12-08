@@ -32,7 +32,7 @@ Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyect
 ## Aristimuño Thomas:
     📞 Celular: +54 011-2848-4081
     📷 Instagram: thomilautaro.3
-    📧 G-Mail:
+    📧 G-Mail: th0mil4utaro.3@gmail.com
 ## Canteros Gonzalo Yoel:
     📞 Celular: +54 011-6747-9169
     📷 Instagram: gonza.canteros
