@@ -21,19 +21,24 @@ Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pert
     
 </div>
 
-## Integrantes del Grupo:
-- Aristimuño Thomas
-- Canteros Gonzalo Yoel
-- Rivero Pablo Martín
-- Rodriguez Guillet Matías
-
 ## Competencias:
 Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyectos Tecnologicos e Innovadores), ceremoña organizada por la Universidad Blas Pascal junto con Escuelas Secundarias, en la cual logramos conseguir los siguientes puestos:
 
     🥉 Puesto en Innovation Teams
     4️⃣ Puesto en Prototipos II
 
-## Contactos:
+# Integrantes del Team AFRS:
+
+## Aristimuño Thomas:
+
+## Canteros Gonzalo Yoel:
+
+## Rivero Pablo Martín:
+
+## Rodriguez Guillet Matías:
+
+
+# Contactos:
 Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvides de seguirnos en nuestras redes!
 
 - **G-Mail:** afrs001@gmail.com
