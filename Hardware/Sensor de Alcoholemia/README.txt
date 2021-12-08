@@ -1,0 +1,1 @@
+El sensor MQ3 es el que utilizaremos para la deteccion de alcohol para verificar si el conductor esta en condiciones de manejar.
