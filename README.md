@@ -30,14 +30,22 @@ Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyect
 # Integrantes del Team AFRS:
 
 ## Aristimuño Thomas:
-
+    📞 Celular: +54 011-
+    📷 Instagram: thomilautaro.3
+    📧 G-Mail:
 ## Canteros Gonzalo Yoel:
-
+    📞 Celular: +54 011-6747-9169
+    📷 Instagram: gonza.canteros
+    📧 G-Mail: canterosgonzaloyoel@gmail.com
 ## Rivero Pablo Martín:
-
+    📞 Celular: +54 011-6831-8890
+    📷 Instagram: _pablorivero
+    📧 G-Mail: peque.m29.rivero@gmail.com
 ## Rodriguez Guillet Matías:
-
-
+    📞 Celular: +54 011-5992-1177
+    📷 Instagram: @matirg_
+    📧 G-Mail: matiasrodriguezguillet@gmail.com
+    
 # Contactos:
 Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvides de seguirnos en nuestras redes!
 
