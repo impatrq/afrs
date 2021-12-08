@@ -6,13 +6,13 @@
 
 </div>
 
-### ¿En qué consiste?
+## ¿En qué consiste?
 Nuestro proyecto consiste en un kit completamente adaptable a un vehículo, el cual es capaz de detectar la alcoholemia y la somnolencia del conductor con el fin de reducir los accidentes de tránsito por estas causas.
 
-### ¿Cuál es nuestro objetivo?
+## ¿Cuál es nuestro objetivo?
 Al ver los altos números de accidentes de tráfico que hay en argentina como en muchas partes del mundo, nuestra propuesta es tener un sistema más que podemos encontrar en el vehículo. De esta forma, haríamos este medio de transporte más seguro para quienes lo usan regularmente como tambien a los peatones de la via pública.
 
-### ¿Quienes somos?
+## ¿Quienes somos?
 Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pertenecientes a la Escuela Secundaria IMPA, nos vimos con la necesidad de desarrollar un prototipo para solucionar los problemas ya mencionados.
 
 <div align="center">
@@ -21,19 +21,19 @@ Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pert
     
 </div>
 
-### Integrantes del Grupo:
+## Integrantes del Grupo:
 - Aristimuño Thomas
 - Canteros Gonzalo Yoel
 - Rivero Pablo Martín
 - Rodriguez Guillet Matías
 
-### Competencias:
+## Competencias:
 Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyectos Tecnologicos e Innovadores), ceremoña organizada por la Universidad Blas Pascal junto con Escuelas Secundarias, en la cual logramos conseguir los siguientes puestos:
 
-🥉 Puesto en Innovation Teams.
-4️⃣ Puesto en Prototipos II.
+    🥉 Puesto en Innovation Teams
+    4️⃣ Puesto en Prototipos II
 
-### Contactos:
+## Contactos:
 Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvides de seguirnos en nuestras redes!
 
 - **G-Mail:** afrs001@gmail.com
