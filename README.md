@@ -30,7 +30,7 @@ Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyect
 # Integrantes del Team AFRS:
 
 ## Aristimuño Thomas:
-    📞 Celular: +54 011-
+    📞 Celular: +54 011-2848-4081
     📷 Instagram: thomilautaro.3
     📧 G-Mail:
 ## Canteros Gonzalo Yoel:
@@ -51,7 +51,7 @@ Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvid
 
     📧 G-Mail: afrs001@gmail.com
     🌐 Página Web: https://freezing-boiling-oriole.glitch.me/
-    📷 Perfil de Instagram: https://www.instagram.com/proyecto_afrs/
+    📷 Instagram: @proyecto_afrs
 
 <div align="center">
   
