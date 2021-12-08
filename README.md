@@ -18,7 +18,7 @@ Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pert
 <div align="center">
 
   ![Foto_Grupal](https://user-images.githubusercontent.com/82232036/145055848-4173a84d-69be-4205-b9f0-5061c42c068c.jpg)
-  
+  Team AFRS
 </div>
 
 ### Integrantes del Grupo:
