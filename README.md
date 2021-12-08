@@ -49,9 +49,9 @@ Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyect
 # Contactos:
 Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvides de seguirnos en nuestras redes!
 
-- 📧**G-Mail:** afrs001@gmail.com
-- 🌐**Página Web:** https://freezing-boiling-oriole.glitch.me/
-- 📷**Perfil de Instagram:** https://www.instagram.com/proyecto_afrs/
+    📧 G-Mail: afrs001@gmail.com
+    🌐 Página Web: https://freezing-boiling-oriole.glitch.me/
+    📷 Perfil de Instagram: https://www.instagram.com/proyecto_afrs/
 
 <div align="center">
   
@@ -59,7 +59,7 @@ Queremos saber tus comentarios y opiniones sobre nuestro desarrollo. No te olvid
 
 </div>
 
-- 💻**Canal de YouTube:** https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ
+    💻 Canal de YouTube: https://www.youtube.com/channel/UCBnhB07afu-79kdqT3G7ePQ
 
 <div align="center">
   
