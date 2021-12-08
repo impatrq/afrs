@@ -1,0 +1,24 @@
+/*CSS files add styling rules to your content*/
+
+body {
+}
+header {
+  font-family: "";
+}
+.cover {
+  height: 400px;
+  background-image: url(https://cdn.glitch.com/7623b1e1-da6f-4b27-abbb-8c3e1e3e8dc9%2Frsz_gabriel-gurrola-u6bpmxgurui-unsplash.jpg?v=1631628733932);
+  color: White;
+  background-size: cover;
+  background-position: center;
+}
+button {
+}
+section {
+  font-family: "Comics-sans";
+}
+.image-container {
+  width:100%;
+  padding-top:56.25%;
+  background-size:cover;
+}
