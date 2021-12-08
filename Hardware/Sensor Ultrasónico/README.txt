@@ -1,0 +1,1 @@
+Utilizaremos dos sensores ultrasonicos, los cuales se ubicaran en la butaca de vehiculo. Uno estara en la altura del cuello y el otro en la cabera, la funcion de estos seria reconocer por base de medidas patrones de fatiga en el conductor (tambaleos, movimientos bruscos o anormales).
