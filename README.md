@@ -10,7 +10,7 @@
 Nuestro proyecto consiste en un kit completamente adaptable a un vehículo, el cual es capaz de detectar la alcoholemia y la somnolencia del conductor con el fin de reducir los accidentes de tránsito por estas causas.
 
 ## ¿Cuál es nuestro objetivo?
-Al ver los altos números de accidentes de tráfico que hay en argentina como en muchas partes del mundo, nuestra propuesta es tener un sistema más que podemos encontrar en el vehículo. De esta forma, haríamos este medio de transporte más seguro para quienes lo usan regularmente como tambien a los peatones de la via pública.
+Al ver los altos números de accidentes de tráfico que hay en argentina como en muchas partes del mundo, nuestra propuesta es tener un sistema más que podemos encontrar en el vehículo. De esta forma, haríamos este medio de transporte más seguro para quienes lo usan regularmente como también a los peatones de la vía pública.
 
 ## ¿Quienes somos?
 Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pertenecientes a la Escuela Secundaria IMPA, nos vimos con la necesidad de desarrollar un prototipo para solucionar los problemas ya mencionados.
@@ -22,7 +22,7 @@ Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pert
 </div>
 
 ## Competencias:
-Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyectos Tecnologicos e Innovadores), ceremoña organizada por la Universidad Blas Pascal junto con Escuelas Secundarias, en la cual logramos conseguir los siguientes puestos:
+Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyectos Tecnológicos e Innovadores), ceremonia organizada por la Universidad Blas Pascal junto con Escuelas Secundarias, en la cual logramos conseguir los siguientes puestos:
 
     🥉 Puesto en Innovation Teams
     4️⃣ Puesto en Prototipos II
@@ -41,7 +41,7 @@ Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyect
     📞 Celular: +54 011-6831-8890
     📷 Instagram: _pablorivero
     📧 G-Mail: peque.m29.rivero@gmail.com
-## Rodriguez Guillet Matías:
+## Rodríguez Guillet Matías:
     📞 Celular: +54 011-5992-1177
     📷 Instagram: @matirg_
     📧 G-Mail: matiasrodriguezguillet@gmail.com
