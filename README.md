@@ -1,4 +1,4 @@
-# Proyecto AFRS:
+# AFRS: Advanced Face Recognizer System
 
 <div align="center">
   
@@ -7,7 +7,7 @@
 </div>
 
 ## ¿En qué consiste?
-Nuestro proyecto consiste en un kit completamente adaptable a un vehículo, el cual es capaz de detectar la alcoholemia y la somnolencia del conductor con el fin de reducir los accidentes de tránsito por estas causas.
+AFRS es un kit completamente adaptable a un vehículo, el cual es capaz de detectar la alcoholemia y la somnolencia del conductor con el fin de reducir los accidentes de tránsito por estas causas.
 
 ## ¿Cuál es nuestro objetivo?
 Al ver los altos números de accidentes de tráfico que hay en argentina como en muchas partes del mundo, nuestra propuesta es tener un sistema más que podemos encontrar en el vehículo. De esta forma, haríamos este medio de transporte más seguro para quienes lo usan regularmente como también a los peatones de la vía pública.
@@ -22,7 +22,7 @@ Somos un grupo de jóvenes que se encuentran cursando en 7mo 2da Aviónica, pert
 </div>
 
 ## Competencias:
-Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyectos Tecnológicos e Innovadores), ceremonia organizada por la Universidad Blas Pascal junto con Escuelas Secundarias, en la cual logramos conseguir los siguientes puestos:
+Tuvimos el honor de poder participar de las Olimpiadas Nacionales de Innovación, Informática, Electrónica y Tecnología aplicada (ONIET), ceremonia organizada por la Universidad Blas Pascal junto con Escuelas Secundarias, en la cual logramos conseguir los siguientes puestos:
 
     🥉 Puesto en Innovation Teams
     4️⃣ Puesto en Prototipos II
@@ -30,19 +30,15 @@ Tuvimos el honor de poder participar de las ONIET (Olimpiada Nacional de Proyect
 # Integrantes del Team AFRS:
 
 ## Aristimuño Thomas:
-    📞 Celular: +54 011-2848-4081
     📷 Instagram: thomilautaro.3
     📧 G-Mail: th0mil4utaro.3@gmail.com
 ## Canteros Gonzalo Yoel:
-    📞 Celular: +54 011-6747-9169
     📷 Instagram: gonza.canteros
     📧 G-Mail: canterosgonzaloyoel@gmail.com
 ## Rivero Pablo Martín:
-    📞 Celular: +54 011-6831-8890
     📷 Instagram: _pablorivero
     📧 G-Mail: peque.m29.rivero@gmail.com
 ## Rodríguez Guillet Matías:
-    📞 Celular: +54 011-5992-1177
     📷 Instagram: @matirg_
     📧 G-Mail: matiasrodriguezguillet@gmail.com
     
